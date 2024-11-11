@@ -1,0 +1,3 @@
+[Error][ProductoNoEncontradoException][Producto con id:5 no encontrado en el inventario.]
+[Error][StockInsuficienteException][Stock insuficiente para el producto: AtunStock disponible20]
+[Error][StockInsuficienteException][Stock insuficiente para el producto: Atun Stock disponible:  20]

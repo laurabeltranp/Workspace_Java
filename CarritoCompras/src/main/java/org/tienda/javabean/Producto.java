@@ -37,6 +37,7 @@ public class Producto {
                 ", precio=" + precio +
                 '}';
     }
+
     public void reducirStock(int cantidad){
         this.stock -= cantidad;
     }
