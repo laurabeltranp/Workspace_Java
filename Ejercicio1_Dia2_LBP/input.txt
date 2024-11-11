@@ -1,0 +1,23 @@
+Hello world
+This is a Java file handling exercise.
+It includes several lines to count words, lines, and characters.
+File handling is a fundamental skill for developers.
+Good luck with the course!
+Java provides robust classes for file handling.
+Streams allow for efficient data input and output operations.
+Learning to handle files is essential for working with persistent data.
+Make sure to understand each class and its specific use case.
+Practice is key to mastering file operations in Java.
+Thank you for participating in this exercise!
+File operations are essential in many applications.
+Data stored in files can be accessed, modified, and deleted.
+Understanding file handling is crucial for backend development.
+In Java, different streams cater to different data types.
+Working with files helps manage persistent data outside of memory.
+Reading and writing to files are common tasks in software engineering.
+Efficient file handling leads to better application performance.
+Java offers both simple and advanced file handling mechanisms.
+Buffered streams enhance performance by reducing I/O operations.
+The File class allows for basic file operations like creation and deletion.
+Thank you for enhancing your Java skills with this course.
+We hope this exercise helps solidify your understanding of file handling.

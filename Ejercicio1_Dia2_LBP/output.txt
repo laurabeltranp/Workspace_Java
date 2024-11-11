@@ -1,0 +1,4 @@
+Estadisticas del archivo:
+Lineas: :23
+Palabras: :199
+Caracteres: :1292
