@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.1" />
+  <library name="Maven: org.mockito:mockito-core:5.14.2" />
+</eclipse-userlibraries>
+
