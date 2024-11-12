@@ -1,0 +1,23 @@
+package org.example;
+
+import java.util.concurrent.*;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+        ExecutorService executor = Executors.newSingleThreadExecutor();
+
+        Callable<Integer> factorialTask = new Factorial(5);
+        Future<Integer> future = executor.submit(factorialTask);
+
+        try{
+            Integer result = future.get();
+            System.out.println("El factorial es: " + result);
+        }catch (InterruptedException | ExecutionException e){
+            e.printStackTrace();
+        }
+
+        executor.shutdown();
+    }
+}
